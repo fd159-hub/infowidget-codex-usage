@@ -1,0 +1,22 @@
+﻿{
+    "ok":  true,
+    "plan":  "PLUS",
+    "fiveHour":  {
+                     "label":  "5 hr",
+                     "used":  21,
+                     "remaining":  79,
+                     "resetUnix":  1790746925,
+                     "resetLabel":  "13:42"
+                 },
+    "weekly":  {
+                   "label":  "Weekly",
+                   "used":  9,
+                   "remaining":  91,
+                   "resetUnix":  1791274143,
+                   "resetLabel":  "10/06 16:09"
+               },
+    "resetCredits":  1,
+    "updated":  "10:55",
+    "updatedFull":  "2026/09/30 10:55:14",
+    "source":  "codex app-server"
+}
